@@ -1,0 +1,52 @@
+#content{
+position:absolute;
+margin:auto;
+margin-top:20px;
+top:0;
+left:0;
+right:0;
+bottom:0;
+width:90%;
+}
+
+#datainput,#dataoutput{
+    margin-left:10%;
+    margin-right:10%;
+}
+#title a{
+font-size:xx-large;
+font-weight:bold;
+font-style:normal;
+text-decoration:none;
+color:black;
+}
+#cntr{
+   padding-left:5%;
+}
+h3{
+color:blue;
+}
+#btnCalc{
+	color:green;
+	margin:auto;
+	margin-top:10px;
+	margin-left:20%;
+	font-size:medium;
+
+}
+#tableoutput {
+border:1px solid black;
+border-collapse:collapse;
+display:block;
+overflow:auto;
+
+
+}
+#tableoutput td,th{
+	border-collapse:collapse;
+	border:1px solid black;
+
+}
+#lbOutputDS{
+	visibility : hidden;
+}
