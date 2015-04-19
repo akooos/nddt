@@ -1,2 +1,4 @@
 # nddt
-Newton's Divided Division Table Calculator 
+Newton's Divided Difference Table Calculator 
+ via HTML/Javascript
+ 
